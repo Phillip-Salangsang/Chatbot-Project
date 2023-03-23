@@ -1,0 +1,61 @@
+//{
+//  "name": "Chatbot-Project",
+//  "version": "1.0.0",
+//  "dependencies": {
+//  }
+//}
+
+{
+  "intents": [
+    {
+      "name": "Getting started",
+      "examples": [
+        "How do I use this chatbot?",
+        "What subjects do you offer tutoring for?"
+      ]
+    },
+    {
+      "name": "Scheduling a session",
+      "examples": [
+        "I would like to schedule a session for tomorrow at 3pm."
+      ]
+    },
+    {
+      "name": "Canceling a session",
+      "examples": [
+        "I need to cancel my session for tomorrow."
+      ]
+    },
+    {
+      "name": "Asking for help with homework",
+      "examples": [
+        "Can you help me with my math homework? I'm stuck on problem 7."
+      ]
+    },
+    {
+      "name": "Asking for clarification on a concept",
+      "examples": [
+        "I don't understand how to use the quadratic formula. Can you explain it to me?"
+      ]
+    },
+    {
+      "name": "Providing feedback",
+      "examples": [
+        "I really enjoyed my session with my tutor today. They were very helpful!"
+      ]
+    },
+    {
+      "name": "Asking for study tips",
+      "examples": [
+        "What's the best way to study for a history exam?"
+      ]
+    },
+    {
+      "name": "Asking for a tutor recommendation",
+      "examples": [
+        "Can you recommend a tutor who is good at helping with biology?"
+      ]
+    }
+  ]
+}
+
